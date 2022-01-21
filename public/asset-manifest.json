@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e4d2db2.chunk.css",
+    "main.js": "/static/js/main.11484979.chunk.js",
+    "main.js.map": "/static/js/main.11484979.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7343300d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7343300d.js.map",
+    "static/css/2.4a7968ae.chunk.css": "/static/css/2.4a7968ae.chunk.css",
+    "static/js/2.1f37d354.chunk.js": "/static/js/2.1f37d354.chunk.js",
+    "static/js/2.1f37d354.chunk.js.map": "/static/js/2.1f37d354.chunk.js.map",
+    "static/js/3.0f651475.chunk.js": "/static/js/3.0f651475.chunk.js",
+    "static/js/3.0f651475.chunk.js.map": "/static/js/3.0f651475.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4a7968ae.chunk.css.map": "/static/css/2.4a7968ae.chunk.css.map",
+    "static/css/main.7e4d2db2.chunk.css.map": "/static/css/main.7e4d2db2.chunk.css.map",
+    "static/js/2.1f37d354.chunk.js.LICENSE.txt": "/static/js/2.1f37d354.chunk.js.LICENSE.txt",
+    "static/media/Banner.module.scss": "/static/media/barbaro.4a65b6e3.ttf",
+    "static/media/arrow-down.15350202.svg": "/static/media/arrow-down.15350202.svg",
+    "static/media/below.b1af6a7d.jpg": "/static/media/below.b1af6a7d.jpg",
+    "static/media/bg.30280312.svg": "/static/media/bg.30280312.svg",
+    "static/media/bitCoin.c67be8f1.png": "/static/media/bitCoin.c67be8f1.png",
+    "static/media/check-mark.c619eced.svg": "/static/media/check-mark.c619eced.svg",
+    "static/media/copy.4243edc6.svg": "/static/media/copy.4243edc6.svg",
+    "static/media/copy.9a1a92fd.svg": "/static/media/copy.9a1a92fd.svg",
+    "static/media/left.e234da8b.png": "/static/media/left.e234da8b.png",
+    "static/media/logo.df5b4e27.png": "/static/media/logo.df5b4e27.png",
+    "static/media/naft.8cad9efc.png": "/static/media/naft.8cad9efc.png",
+    "static/media/right.4b0345a5.jpg": "/static/media/right.4b0345a5.jpg",
+    "static/media/rotating-arrow-to-the-left.da352974.svg": "/static/media/rotating-arrow-to-the-left.da352974.svg",
+    "static/media/spinner.8cad9efc.png": "/static/media/spinner.8cad9efc.png",
+    "static/media/trustwallet.08e58cf4.svg": "/static/media/trustwallet.08e58cf4.svg",
+    "static/media/view.17dc574a.svg": "/static/media/view.17dc574a.svg",
+    "static/media/walletconnect.ce1c6d2d.svg": "/static/media/walletconnect.ce1c6d2d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7343300d.js",
+    "static/css/2.4a7968ae.chunk.css",
+    "static/js/2.1f37d354.chunk.js",
+    "static/css/main.7e4d2db2.chunk.css",
+    "static/js/main.11484979.chunk.js"
+  ]
+}
