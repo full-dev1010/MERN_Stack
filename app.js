@@ -5,9 +5,9 @@ var http = require('http'),
     bodyParser = require('body-parser'),
     session = require('express-session'),
     cors = require('cors'),
-    passport = require('passport'),
+    // passport = require('passport'),
     errorhandler = require('errorhandler'),
-    mongoose = require('mongoose');
+    // mongoose = require('mongoose');
 
 var isProduction = process.env.NODE_ENV === 'production';
 
@@ -42,7 +42,7 @@ app.use(session({ secret: 'conduit', cookie: { maxAge: 60000 }, resave: false, s
 // require('./models/Comment');
 // require('./config/passport');
 
-app.use(require('./routes'));
+// app.use(require('./routes'));
 
 /// catch 404 and forward to error handler
 app.use(function(req, res, next) {
